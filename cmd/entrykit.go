@@ -4,12 +4,12 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/progrium/entrykit"
+	"github.com/joemcmahon/entrykit"
 
-	_ "github.com/progrium/entrykit/codep"
-	_ "github.com/progrium/entrykit/prehook"
-	_ "github.com/progrium/entrykit/render"
-	_ "github.com/progrium/entrykit/switch"
+	_ "github.com/joemcmahon/entrykit/codep"
+	_ "github.com/joemcmahon/entrykit/prehook"
+	_ "github.com/joemcmahon/entrykit/render"
+	_ "github.com/joemcmahon/entrykit/switch"
 )
 
 var Version string

@@ -1,6 +1,6 @@
 NAME=entrykit
 ARCH=$(shell uname -m)
-ORG=progrium
+ORG=joemcmahon
 VERSION=0.4.1
 
 .PHONY: build release dep
